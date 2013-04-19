@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Niclas\GitHub\SMSAutoReply\.metadata\.plugins\org.eclipse.jdt.core
+3733832246.index
+2250069112.index
+2932471465.index
